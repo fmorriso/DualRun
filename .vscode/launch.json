@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DualRun",
+            "request": "launch",
+            "mainClass": "DualRun",
+            "projectName": "DualRun"
+        }
+    ]
+}
